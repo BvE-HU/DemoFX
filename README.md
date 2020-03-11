@@ -1,4 +1,5 @@
 # DemoFX: JavaFX kant-en-klaar voor IntelliJ
+Je kunt dit IntelliJ-project Git-clonen en openen met IntelliJ. Het project is direct klaar voor gebruik.
 
 # Hoe maak je dit project zelf in Intelli?
 1. IntelliJ > Create New Project > Java > Next > Next > Kies projectnaam > Finish
